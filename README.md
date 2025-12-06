@@ -39,7 +39,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
  ### STEP-5:  Start the sketch command
    Select Sketch > Create Sketch.
  ### STEP-6: Select the Sketch Plane
-   Select the FRON SURFACE of rectangular block 
+   Select the FRON SURFACE of rectangular block .
  ### STEP-7: Create a CIRCLE 
    1.	Select Sketch >CIRCLE  > CENTER CIRCLE.
    2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
@@ -71,6 +71,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/6f9bd505-819f-4de9-9460-4ffbf485d913" />
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
